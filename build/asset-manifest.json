@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.972fa48a.css",
+    "main.js": "/static/js/main.15a9876b.js",
+    "static/media/Intro-Regular.woff2": "/static/media/Intro-Regular.3a4913ff783fd160608a.woff2",
+    "static/media/Intro-Bold.woff2": "/static/media/Intro-Bold.4a1815798758199ab434.woff2",
+    "static/media/Intro-Book.woff2": "/static/media/Intro-Book.6e672566180d7ecd84ab.woff2",
+    "static/media/logo.svg": "/static/media/logo.84443a95eaf267b517c2622012a2ab83.svg",
+    "static/media/cart-trash.svg": "/static/media/cart-trash.83e7ac018957983b4adcfbb98cde1a4d.svg",
+    "static/media/inspect.svg": "/static/media/inspect.68538696b0f8ed481f8d86144db7749e.svg",
+    "static/media/cart.svg": "/static/media/cart.60510d892b8b3466f274810472c6f018.svg",
+    "static/media/addToCart.svg": "/static/media/addToCart.2ae9b8835a5e3c8ac0c158b8fb382fe7.svg",
+    "index.html": "/index.html",
+    "main.972fa48a.css.map": "/static/css/main.972fa48a.css.map",
+    "main.15a9876b.js.map": "/static/js/main.15a9876b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972fa48a.css",
+    "static/js/main.15a9876b.js"
+  ]
+}
